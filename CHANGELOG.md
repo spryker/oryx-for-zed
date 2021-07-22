@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.11.2
+Released on 22.07.2021
+
+- Fixed backward compatibility script for the new Merchant Portal endpoint.
+
+
 ### 2.11.1
 Released on 07.07.2021
 
