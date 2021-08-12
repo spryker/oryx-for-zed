@@ -4,7 +4,7 @@
 Released on 12.08.2021
 
 - Removed backward compatibility script for Merchant Portal assets.
-- Added 
+- Fixed bug with not defined settings in datatables by adding additional module rule. 
 
 
 ### 2.11.2
