@@ -1,5 +1,18 @@
 # Changelog
 
+### 2.11.3
+Released on 12.08.2021
+
+- Removed backward compatibility script for Merchant Portal assets.
+- Fixed bug with not defined settings in datatables by adding additional module rule. 
+
+
+### 2.11.2
+Released on 22.07.2021
+
+- Fixed backward compatibility script for the new Merchant Portal endpoint.
+
+
 ### 2.11.1
 Released on 07.07.2021
 
