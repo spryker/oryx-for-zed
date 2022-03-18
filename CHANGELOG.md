@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.11.4
+Released on 18.03.2022
+
+- Replaced deprecated `node-sass` dependency with `dart-sass`. 
+
+
 ### 2.11.3
 Released on 12.08.2021
 
