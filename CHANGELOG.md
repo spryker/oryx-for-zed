@@ -1,6 +1,12 @@
 # Changelog
 
 ### 2.11.4
+Released on 7.04.2022
+
+- Downgraded `optimize-css-assets-webpack-plugin` version to keep build working in production mode.
+
+
+### 2.11.4
 Released on 18.03.2022
 
 - Replaced deprecated `node-sass` dependency with `dart-sass`. 
