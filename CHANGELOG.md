@@ -1,5 +1,15 @@
 # Changelog
 
+### 2.12.0
+Released on 31.05.2022
+
+- Updated `@babel/core` dependency.
+- Updated `@babel/preset-env` dependency.
+- Updated `babel-loader` dependency.
+- Updated `sass` dependency.
+- Adjusted webpack config for jQuery scope.
+
+
 ### 2.11.4
 Released on 7.04.2022
 
