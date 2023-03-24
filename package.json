@@ -20,7 +20,7 @@
   "dependencies": {
     "@babel/core": "~7.21.3",
     "@babel/preset-env": "~7.20.2",
-    "autoprefixer": "~8.6.5",
+    "autoprefixer": "~9.8.8",
     "babel-loader": "~8.3.0",
     "core-js": "~2.6.12",
     "css-loader": "~2.1.1",
@@ -29,16 +29,16 @@
     "file-loader": "~1.1.11",
     "fs-extra": "~10.1.0",
     "imports-loader": "~0.8.0",
-    "mini-css-extract-plugin": "~0.12.0",
+    "mini-css-extract-plugin": "~2.7.2",
     "moment": "~2.29.4",
-    "optimize-css-assets-webpack-plugin": "~5.0.8",
+    "css-minimizer-webpack-plugin": "~4.2.2",
     "postcss-loader": "~2.1.6",
     "resolve-url-loader": "~5.0.0",
     "sass": "~1.60.0",
     "sass-loader": "~10.4.1",
     "style-loader": "~0.23.1",
-    "terser-webpack-plugin": "~4.2.3",
-    "webpack": "~4.46.0",
+    "terser-webpack-plugin": "~5.3.6",
+    "webpack": "~5.74.0",
     "yargs": "~13.3.2"
   }
 }
