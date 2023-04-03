@@ -2,4 +2,4 @@
 
 Spryker ZED frontend automation tool
 
-> Our documentation has moved. Please go to [our official Spryker documentation](https://documentation.spryker.com/front-end_developer_guide/zed/oryx/oryx-for-zed.htm).
+The tool [documentation](https://docs.spryker.com/docs/scos/dev/front-end-development/zed/oryx-for-zed.html).
