@@ -21,7 +21,7 @@
     "autoprefixer": "~9.8.8",
     "babel-loader": "~8.3.0",
     "colors": "~1.4.0",
-    "core-js": "~2.6.12",
+    "core-js": "~3.29.1",
     "css-loader": "~2.1.1",
     "css-minimizer-webpack-plugin": "~4.2.2",
     "dayjs": "~1.11.7",
