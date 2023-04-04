@@ -1,5 +1,14 @@
 # Changelog
 
+### 2.13.0
+Released on 04.04.2023
+
+- Removed `core-js`, `es6-promise`, `optimize-css-assets-webpack-plugin` dependencies.
+- Removed deprecated `@spryker/oryx` dependency and moved it's functionality into the package.
+- Introduced `dayjs`, `css-minimizer-webpack-plugin`, `fast-glob` dependencies. 
+- Updated dependencies.
+
+
 ### 2.12.0
 Released on 31.05.2022
 

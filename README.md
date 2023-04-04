@@ -1,7 +1,5 @@
 # Oryx for Zed
 
-Spryker ZED frontend automation tool (Oryx based)
+Spryker ZED frontend automation tool
 
-> Our documentation has moved. Please go to [our official Spryker documentation](https://documentation.spryker.com/front-end_developer_guide/zed/oryx/oryx-for-zed.htm).
-
-> If you're looking for **Oryx**, [click here](https://github.com/spryker/oryx).
+The tool [documentation](https://docs.spryker.com/docs/scos/dev/front-end-development/zed/oryx-for-zed.html).
