@@ -1,6 +1,6 @@
 # Changelog
 
-### 2.14.0
+### 3.0.0
 Released on 11.05.2023
 
 - Introduced `postcss` dependency.
