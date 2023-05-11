@@ -1,5 +1,17 @@
 # Changelog
 
+### 3.0.0
+Released on 11.05.2023
+
+- Introduced `postcss` dependency.
+- Updated dependencies:
+  - `node`: `16.0.0` => `18.0.0`
+  - `npm`: `8.0.0` => `9.0.0`
+  - `autoprefixer`: `9.8.8` => `10.4.14`
+  - `postcss-loader`: `2.1.6` => `7.3.0`
+  - `webpack`: `5.74.0` => `5.81.0`
+
+
 ### 2.13.0
 Released on 04.04.2023
 
