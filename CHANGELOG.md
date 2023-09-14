@@ -1,5 +1,12 @@
 # Changelog
 
+### 3.1.0
+Released on 15.09.2023
+
+- Adjusted webpack config by introducing `NodePolyfillPlugin` usage from `node-polyfill-webpack-plugin`.
+- Updated dependencies:
+  - `webpack`: `5.81.0` => `5.88.2`
+
 ### 3.0.0
 Released on 11.05.2023
 
