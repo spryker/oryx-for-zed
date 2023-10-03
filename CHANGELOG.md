@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.0
+Released on 04.10.2023
+
+- Removed the `file-loader` dependency.
+- Adjusted webpack config by migration from `file-loader` to `asset/resource`.
+
 ### 3.1.0
 Released on 15.09.2023
 
