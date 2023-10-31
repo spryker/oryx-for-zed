@@ -1,6 +1,6 @@
 {
   "name": "@spryker/oryx-for-zed",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "Spryker ZED frontend automation tool",
   "repository": {
     "type": "git",
@@ -39,7 +39,7 @@
     "yargs": "~13.3.2"
   },
   "devDependencies": {
-    "@babel/core": "~7.21.3",
-    "@babel/preset-env": "~7.20.2"
+    "@babel/core": "~7.23.2",
+    "@babel/preset-env": "~7.23.2"
   }
 }

@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.3.0
+Released on 31.10.2023
+
+- Adjusted webpack config by introducing `assert` and `stream` polyfills.
+- Deprecated the `NodePolyfillPlugin`.
+
 ### 3.2.0
 Released on 04.10.2023
 
