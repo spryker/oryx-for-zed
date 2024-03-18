@@ -1,6 +1,6 @@
 {
   "name": "@spryker/oryx-for-zed",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "description": "Spryker ZED frontend automation tool",
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
     "autoprefixer": "~10.4.14",
     "babel-loader": "~8.3.0",
     "colors": "~1.4.0",
-    "css-loader": "~2.1.1",
+    "css-loader": "~6.10.0",
     "css-minimizer-webpack-plugin": "~4.2.2",
     "dayjs": "~1.11.7",
     "fast-glob": "~3.2.12",
