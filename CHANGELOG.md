@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.4.2
+
+Released on 19.03.2024
+
+- Fix correct css-loader options schema.
+
 ### 3.4.1
 
 Released on 18.03.2024
