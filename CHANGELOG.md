@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.4.1
+
+Released on 18.03.2024
+
+- Fix resolving css urls with absolute path.
+
 ### 3.4.0
 
 Released on 18.03.2024
