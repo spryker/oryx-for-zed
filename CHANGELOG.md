@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.4.3
+
+Released on 13.12.2024
+
+- Bump webpack 5.88.2 => 5.94.0.
+
+# Changelog
+
 ### 3.4.2
 
 Released on 19.03.2024
