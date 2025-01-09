@@ -2,7 +2,7 @@
 
 ### 3.4.4
 
-Released on 08.01.2025
+Released on 09.01.2025
 
 - Adjusted configuration so webpack can search for entrypoints inside feature modules.
 
