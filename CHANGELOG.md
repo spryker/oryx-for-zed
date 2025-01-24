@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.4.5
+
+Released on 10.01.2025
+
+- Fix entrypoint for features.
+
+# Changelog
+
 ### 3.4.4
 
 Released on 09.01.2025
