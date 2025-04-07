@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.5.0
+
+Released on 07.04.2025
+
+- Add support for a separate entry point compatible with Bootstrap 5.
+
 ### 3.4.5
 
 Released on 10.01.2025
