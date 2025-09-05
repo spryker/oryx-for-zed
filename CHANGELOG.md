@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.5.1
+
+Released on 05.09.2025
+
+- Fix spryker feature path.
+
 ### 3.5.0
 
 Released on 07.04.2025
