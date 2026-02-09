@@ -1,5 +1,12 @@
 # Changelog
 
+### 3.5.2
+
+Released on 09.02.2026
+
+- Replace `fs-extra` dependency with native Node.js `fs.promises` API.
+- Fix symlink handling by using `verbatimSymlinks: true` option in copy operation.
+
 ### 3.5.1
 
 Released on 05.09.2025
