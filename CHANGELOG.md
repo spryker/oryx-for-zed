@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.6.0
+
+Released on 09.02.2026
+
+- Fix paths for Spryker monorepo.
+
 ### 3.5.2
 
 Released on 09.02.2026

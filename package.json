@@ -1,6 +1,6 @@
 {
   "name": "@spryker/oryx-for-zed",
-  "version": "3.5.2",
+  "version": "3.6.0",
   "description": "Spryker ZED frontend automation tool",
   "repository": {
     "type": "git",
