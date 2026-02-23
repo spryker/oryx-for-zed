@@ -8,4 +8,7 @@ const copyAssetsCallback = require('./lib/copy');
 
 api.getConfiguration(api.settings)
     .then(configuration => build(configuration, copyAssetsCallback))
-    .catch(error => console.error('An error occurred while creating configuration', error));
+    .catch(error => {
+        console.error('An error occurred while creating configuration', error);
+        process.exit(1);
+    });
