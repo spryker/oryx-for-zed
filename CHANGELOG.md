@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.6.1
+
+Released on 23.02.2026
+
+- Fix build process to exit with non-zero code on errors.
+
 ### 3.6.0
 
 Released on 09.02.2026
